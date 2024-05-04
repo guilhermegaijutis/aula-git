@@ -1,5 +1,7 @@
 fun main() {
     println("Hello World!")
+    printls
+
 }
 
 /* Repositorio = Pasta
@@ -15,6 +17,7 @@ fun main() {
    - git pull (Recebe do Github)
    - git add .  (Seleciona todos os arquivos)
    - Git Cheat Sheet (Comandos)
+
 
 
 
